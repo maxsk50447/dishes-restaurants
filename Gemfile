@@ -11,7 +11,8 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'turbolinks', '~> 5'
 
-
+gem 'rspec-rails'
+gem 'shoulda-matchers'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
